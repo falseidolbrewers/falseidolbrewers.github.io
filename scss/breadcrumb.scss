@@ -142,7 +142,7 @@
     }
     .face-img {
         position: absolute;
-        width: 17%;
+        width: 100%;
         left: 50%;
         top: 50%;
         @include transform(translate(-50%, -50%));
