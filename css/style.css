@@ -322,7 +322,12 @@ header .intro-text {
 	width: 70%;
 	height: auto;
 }
+#team .brewer {
+	padding: 20% 0;
+}
+
 #team .team-img {
+	padding: 5% 0;
 	display: inline-block;
 	position: relative;
 }
